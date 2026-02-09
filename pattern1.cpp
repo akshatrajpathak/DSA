@@ -15,3 +15,8 @@ int main (){
     return 0;
 
 }
+/*
+git add .
+git commit -m "Day X solved patterns"
+git push
+*/
