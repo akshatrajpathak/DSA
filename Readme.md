@@ -44,36 +44,18 @@ I'm constantly improving my problem-solving skills and documenting my journey th
 - Prepare for technical interviews and competitive programming
 - Document learnings and approaches for future reference
 
-## 📊 Progress Tracker
-
-| Topic | Problems Solved | Difficulty Level |
-|-------|----------------|------------------|
-| Arrays | - | Easy/Medium/Hard |
-| Strings | - | Easy/Medium/Hard |
-| Linked Lists | - | Easy/Medium/Hard |
-| Trees | - | Easy/Medium/Hard |
-| Graphs | - | Easy/Medium/Hard |
-| Dynamic Programming | - | Easy/Medium/Hard |
-
-*Will be updated regularly as I progress*
 
 ## 💡 Problem Format
 
 Each solution includes:
-- Problem statement and link
 - Approach and intuition
-- Time and Space complexity
 - Clean, well-commented code
 - Alternative approaches (where applicable)
 
 ## 🛠️ Languages Used
 
 - C++
-- Python
-- Java
-- JavaScript
 
-*Primary language may vary based on problem requirements*
 
 ## 🌟 Resources
 
@@ -91,10 +73,10 @@ I believe in consistent practice over cramming. This repository reflects my dail
 
 Feel free to reach out for discussions, collaborations, or study groups!
 
-- **GitHub:** [Your GitHub Username]
-- **LeetCode:** [Your LeetCode Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email]
+- **GitHub:** akshatrajpathak
+- **LeetCode:** sLdSt3hvso
+- **LinkedIn:** akshatrajpathak
+- **Email:** akshatrajpathak2004@gmail.com
 
 ## 📝 Note
 
