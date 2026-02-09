@@ -28,11 +28,6 @@ I'm constantly improving my problem-solving skills and documenting my journey th
 ├── Queues/
 ├── Trees/
 ├── Graphs/
-├── DynamicProgramming/
-├── Greedy/
-├── Backtracking/
-├── Sorting/
-├── Searching/
 └── Miscellaneous/
 ```
 
