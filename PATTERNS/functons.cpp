@@ -13,15 +13,36 @@ using namespace std;
 //     return 0;
 // }
 
-int sum(int n){
-    int sum=0 ;
-    for (int i =1 ; i<=n;i++){
-        sum=sum+i;
+
+
+// int sum(int n){
+//     int sum=0 ;
+//     for (int i =1 ; i<=n;i++){
+//         sum=sum+i;
         
-    }
-    return sum; 
-}
-int main(){
-    cout<<"sum of n number is"<< sum(10)<<endl;
-    return 0;
-}
+//     }
+//     return sum; 
+// }
+// int main(){
+//     cout<<"sum of n number is"<< sum(10)<<endl;
+//     return 0;
+// }
+
+
+
+// int fact(int n){
+//     int sum = 1;
+//     for(int i=1 ; i<=n;i++){
+//         sum*=i;
+//     }
+// return sum;
+// }
+// int main(){
+//     cout<<"factorial of n is : "<<fact(4)<<endl;
+//     return 0;
+// }
+
+
+
+
+ 
