@@ -1,0 +1,1 @@
+cout<<"it is not prime number";
