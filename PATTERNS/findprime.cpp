@@ -1,28 +1,27 @@
-
 #include <iostream>
 using namespace std;
 
-int isPrime(int n) {
-    if (n <= 1)
-        return 0;
-
-    for (int i = 2; i * i <= n; i++) {
-        if (n % i == 0)
-            return 0;   // not prime
+bool isPrime(int num) {
+    if (num <= 1) return false;
+    for (int i = 2; i * i <= num; i++) {
+        if (num % i == 0)
+            return false;
     }
-
-    return 1;   // prime
+    return true;
 }
 
-int main() {
-    int N=60;
+void printPrimes(int n) {
     
-
-    for (int i = 2; i <= N; i++) {   // First loop (numbers)
-        if (isPrime(i) == 1) {       // Second loop inside function
+    for (int i = 2; i <= n; i++) {
+        if (isPrime(i))
             cout << i << " ";
-        }
     }
+}   
 
+int main() {
+    int n;
+    cout << "Enter a number: ";
+    cin >> n;
+    printPrimes(n);
     return 0;
 }
